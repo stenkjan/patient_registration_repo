@@ -178,7 +178,7 @@ public class GUI_frame_checkout extends javax.swing.JFrame {
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
-                new GUI_frame().setVisible(true);
+                new GUI_frame_checkout().setVisible(true);
             }
         });
     }
