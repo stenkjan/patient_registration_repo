@@ -11,6 +11,7 @@ package com.mycompany.patient_registration_repo;
  */
 public class main {
      public static void main(String[] args){
+        com.mycompany.patient_registration_repo.GUI_frame gui = new GUI_frame();
         
     }
 }
