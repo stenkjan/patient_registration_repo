@@ -63,7 +63,7 @@ public class GUI_frame_checkout extends javax.swing.JFrame {
 
         jLabel1.setText("Counter");
 
-        jLabel2.setText("Checked In");
+        jLabel2.setText("Checked In:");
 
         jTextField2.setText("jTextField2");
         jTextField2.addActionListener(new java.awt.event.ActionListener() {
@@ -72,7 +72,7 @@ public class GUI_frame_checkout extends javax.swing.JFrame {
             }
         });
 
-        jLabel3.setText("Checked Out");
+        jLabel3.setText("Checked Out:");
 
         jTextField3.setText("jTextField2");
 

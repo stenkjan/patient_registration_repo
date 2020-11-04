@@ -153,7 +153,7 @@
     </Component>
     <Component class="javax.swing.JLabel" name="jLabel2">
       <Properties>
-        <Property name="text" type="java.lang.String" value="Checked In"/>
+        <Property name="text" type="java.lang.String" value="Checked In:"/>
       </Properties>
     </Component>
     <Component class="javax.swing.JTextField" name="jTextField2">
@@ -166,7 +166,7 @@
     </Component>
     <Component class="javax.swing.JLabel" name="jLabel3">
       <Properties>
-        <Property name="text" type="java.lang.String" value="Checked Out"/>
+        <Property name="text" type="java.lang.String" value="Checked Out:"/>
       </Properties>
     </Component>
     <Component class="javax.swing.JTextField" name="jTextField3">
