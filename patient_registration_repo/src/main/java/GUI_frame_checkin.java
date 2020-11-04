@@ -55,7 +55,7 @@ public class GUI_frame_checkin extends javax.swing.JFrame {
 
         jLabel1.setText("Counter");
 
-        jLabel2.setText("Checked In");
+        jLabel2.setText("Checked In:");
 
         jTextField2.setText("jTextField2");
 
