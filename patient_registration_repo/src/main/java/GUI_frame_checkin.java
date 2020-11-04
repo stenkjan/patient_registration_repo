@@ -127,6 +127,7 @@ public class GUI_frame_checkin extends javax.swing.JFrame {
 
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {
+            @Override
             public void run() {
                 new GUI_frame_checkin().setVisible(true);
             }
